@@ -212,7 +212,7 @@ header::before {
     transition: transform 0.3s ease;
 }
 .camisa-item img:hover {
-    transform: scale(1.05)
+    transform: scale(1.1)
 }
 
 @media (max-width: 768px) { 
